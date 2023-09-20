@@ -1,0 +1,11 @@
+C:\cursovisualbasic2023\ConsoleApp20230920\bin\Debug\ConsoleApp20230920.exe.config
+C:\cursovisualbasic2023\ConsoleApp20230920\bin\Debug\ConsoleApp20230920.exe
+C:\cursovisualbasic2023\ConsoleApp20230920\bin\Debug\ConsoleApp20230920.pdb
+C:\cursovisualbasic2023\ConsoleApp20230920\bin\Debug\ConsoleApp20230920.xml
+C:\cursovisualbasic2023\ConsoleApp20230920\obj\Debug\ConsoleApp20230920.vbproj.AssemblyReference.cache
+C:\cursovisualbasic2023\ConsoleApp20230920\obj\Debug\ConsoleApp20230920.Resources.resources
+C:\cursovisualbasic2023\ConsoleApp20230920\obj\Debug\ConsoleApp20230920.vbproj.GenerateResource.cache
+C:\cursovisualbasic2023\ConsoleApp20230920\obj\Debug\ConsoleApp20230920.vbproj.CoreCompileInputs.cache
+C:\cursovisualbasic2023\ConsoleApp20230920\obj\Debug\ConsoleApp20230920.exe
+C:\cursovisualbasic2023\ConsoleApp20230920\obj\Debug\ConsoleApp20230920.xml
+C:\cursovisualbasic2023\ConsoleApp20230920\obj\Debug\ConsoleApp20230920.pdb
